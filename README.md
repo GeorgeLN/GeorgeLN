@@ -1,8 +1,8 @@
 <h1 align="center">Hi! 👋</h1>
-<h3> My name is Jorge (some know me as George). I'm a software developer from Colombia 🌎. </h3>
-<h3> Java and C# were my first languages and I'm current get in the world of mobile development with Flutter. </h3>
+<p> My name is Jorge (some know me as George). I'm a software developer from Colombia 🌎. </p>
+<p> Java and C# were my first languages and I'm current get in the world of mobile development with Flutter. </p>
 
-<h3>ㅤ</h3>
+<p>ㅤ</p>
 
 <h2 align="left">Skills 💻</h2>
 <p align="left"> 
