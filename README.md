@@ -1,7 +1,5 @@
 <h1 align="center">Hi! 👋</h1>
 
-<img src="https://d2ms8rpfqc4h24.cloudfront.net/flutter_sdk2_9578b31bc8.jpg" />
-
 <p> My name is Jorge (some know me as George). I'm a software developer from Colombia 🌎. </p>
 <p> Java and C# were my first languages and I'm current get in the world of mobile development with Flutter. </p>
 
